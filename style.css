@@ -1,0 +1,36 @@
+.top-container {
+    background-color: lavenderblush;
+    position: relative;
+    padding-top: 100px;
+    font-family: 'Merriweather', serif;
+
+}
+body {
+    margin: 0px;
+    text-align: center;
+
+}
+h1 {
+    margin-top: 0px;
+    font-family: 'Sacramento', cursive;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.cloud2 {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.cloud1 {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+.profile {
+    margin-top: 20px;
+}
+
